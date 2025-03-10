@@ -19,3 +19,5 @@ git push -u origin main
 git remote add origin https://github.com/KulinID/Vizsga-4..git
 git branch -M main
 git push -u origin main
+
+https://www.aelius.com/njh/subnet_sheet.html
