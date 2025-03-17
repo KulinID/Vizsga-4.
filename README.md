@@ -1,3 +1,5 @@
+https://szit.hu/doku.php?id=oktatas:halozat:cisco
+
 # Vizsga-4.
 Vizsga
 
